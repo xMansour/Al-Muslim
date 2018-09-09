@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="labels_style">
+        <item name="android:color">#000000</item>
+        <item name="android:background">#525252</item>
+        <item name="android:text">Test Text! Delete After Implementation</item>
+    </style>
+</resources>
